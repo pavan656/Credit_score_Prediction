@@ -27,10 +27,10 @@ A user-friendly Streamlit application that predicts a customer's **credit score*
 ## 📂 Project Structure
 
 CreditScoreApp/
-├── app.py # Streamlit app
-├── cred_card.ipynb # Model training notebook
-├── .gitignore # Ignore models and unnecessary files
-└── README.md
+  ├── app.py # Streamlit app
+  ├── cred_card.ipynb # Model training notebook
+  ├── .gitignore # Ignore models and unnecessary files
+  └── README.md
 
 
 > **Note:** Model file (`credit_model.pkl`) is not included. You need to train the model or place your model file in the project folder before running the app.
